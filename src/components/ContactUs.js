@@ -36,14 +36,14 @@ export default function ContactUs() {
                             <FontAwesomeIcon className='fs-1 m-2' icon={faPhone}></FontAwesomeIcon>
                             <p className='fw-bolder fs-5' >Talk to Sales</p>
                             <p>Interested in Indivm Energy Products? Just pick up the phone to chat with a member of our sales team.</p>
-                            <a className='fs-4' target={'_blank'} href='tel:+919518220044'>+91 9518220044</a>
+                            <a className='fs-4' target={'_blank'} href='tel:+918930232597'>+91 8930232597</a>
                         </div>
                         <div className="col-lg-5 col-12 text-center py-3 bg-white m-3 rounded">
                             {/* <FontAwesomeIcon className='fs-1 m-2' icon={faWhatsapp}></FontAwesomeIcon> */}
                             <i class="fa-brands fs-1 fw-bolder m-2 fa-whatsapp"></i>
                             <p className='fw-bolder fs-5' >Contact Us on WhatsApp</p>
                             <p>Sometimes you need a little help from your friends. Or a Indivm Support rep.Don't worry we are here for you.</p>
-                            <a className='fs-4 ' target={'_blank'} href='https://wa.me/+919518220044'>Whatsapp</a>
+                            <a className='fs-4 ' target={'_blank'} href='https://wa.me/+918930232597'>Whatsapp</a>
                         </div>
                     </div>
                 </div>
